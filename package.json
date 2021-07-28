@@ -1,0 +1,9 @@
+{
+	"name": "party-pets",
+	"version": "0.0.1",
+	"description": "Not what you think it is.",
+	"prestart": "prestart.js",
+	"ccmodDependencies": {
+		"item-api": ">=0.4.0"
+	}
+}

@@ -1,0 +1,130 @@
+{
+    "el-emilie-pet": {
+        "id": "el-emilie-pet",
+        "item": "el-pet-emilie",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "npc.emilie",
+            "walkAnims":{
+                "idle": "aim",
+                "move": "aimMove",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-ctron-pet": {
+        "id": "el-ctron-pet",
+        "item": "el-pet-ctron",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "npc.glasses",
+            "walkAnims":{
+                "idle": "battleIdle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-joern-pet": {
+        "id": "el-joern-pet",
+        "item": "el-pet-joern",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "npc.sidekick",
+            "walkAnims":{
+                "idle": "idle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-apollo-pet": {
+        "id": "el-apollo-pet",
+        "item": "el-pet-apollo",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "npc.fancyguy",
+            "walkAnims":{
+                "idle": "battleIdle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-lea-pet": {
+        "id": "el-lea-pet",
+        "item": "el-pet-lea",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "player",
+            "walkAnims":{
+                "idle": "idle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-shizuka-pet": {
+        "id": "el-shizuka-pet",
+        "item": "el-pet-shizuka",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "shizuka",
+            "walkAnims":{
+                "idle": "battleIdle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-lukas-pet": {
+        "id": "el-lukas-pet",
+        "item": "el-pet-lukas",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "npc.schneider",
+            "walkAnims":{
+                "idle": "idle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    },
+    "el-luke-pet": {
+        "id": "el-luke-pet",
+        "item": "el-pet-luke",
+        "autoAdd": false,
+        "type": "Pet",
+        "settings": {
+            "animSheet": "npc.luke",
+            "walkAnims":{
+                "idle": "battleIdle",
+                "move": "walk",
+                "run": "run",
+                "jump": "jump",
+                "fall": "fall"
+            }
+        }
+    }
+}

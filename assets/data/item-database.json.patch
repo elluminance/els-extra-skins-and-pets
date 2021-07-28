@@ -1,0 +1,9 @@
+[{
+    "type": "ENTER",
+    "index": "items"
+},{
+    "type": "IMPORT",
+    "src": "mod:patches/pet-items.json"
+},{
+    "type": "EXIT"
+}]

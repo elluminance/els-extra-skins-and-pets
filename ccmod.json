@@ -1,0 +1,11 @@
+{
+    "id": "party-pets",
+	"version": "0.0.1",
+
+	"title": "Party Pets",
+	"description": "(Probably not what you think it is)",
+    
+	"dependencies": {
+        "item-api": ">=0.4.0"
+	}
+}

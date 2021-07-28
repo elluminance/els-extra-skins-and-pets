@@ -1,0 +1,155 @@
+[
+  {
+    "order": 14,
+    "customItem": "el-pet-emilie",
+    "name": {
+      "en_US": "Emilie"
+    },
+    "description": {
+      "en_US": "Sacrebleu!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-ctron",
+    "name": {
+      "en_US": "C'tron"
+    },
+    "description": {
+      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-apollo",
+    "name": {
+      "en_US": "Apollo"
+    },
+    "description": {
+      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-joern",
+    "name": {
+      "en_US": "Joern"
+    },
+    "description": {
+      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-lea",
+    "name": {
+      "en_US": "Lea"
+    },
+    "description": {
+      "en_US": "Hi!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-shizuka",
+    "name": {
+      "en_US": "Shizuka"
+    },
+    "description": {
+      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-lukas",
+    "name": {
+      "en_US": "Lukas"
+    },
+    "description": {
+      "en_US": "Hi!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },{
+    "order": 14,
+    "customItem": "el-pet-luke",
+    "name": {
+      "en_US": "Luke"
+    },
+    "description": {
+      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  }
+]
