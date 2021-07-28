@@ -23,7 +23,7 @@
         "settings": {
             "animSheet": "npc.glasses",
             "walkAnims":{
-                "idle": "battleIdle",
+                "idle": "aim",
                 "move": "walk",
                 "run": "run",
                 "jump": "jump",
@@ -39,7 +39,7 @@
         "settings": {
             "animSheet": "npc.sidekick",
             "walkAnims":{
-                "idle": "idle",
+                "idle": "aim",
                 "move": "walk",
                 "run": "run",
                 "jump": "jump",
@@ -87,7 +87,7 @@
         "settings": {
             "animSheet": "shizuka",
             "walkAnims":{
-                "idle": "battleIdle",
+                "idle": "idle",
                 "move": "walk",
                 "run": "run",
                 "jump": "jump",
@@ -103,7 +103,7 @@
         "settings": {
             "animSheet": "npc.schneider",
             "walkAnims":{
-                "idle": "idle",
+                "idle": "battleIdle",
                 "move": "walk",
                 "run": "run",
                 "jump": "jump",
