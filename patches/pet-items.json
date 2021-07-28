@@ -25,7 +25,7 @@
       "en_US": "C'tron"
     },
     "description": {
-      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+      "en_US": "Did you know this pet does not have 5 hearts?"
     },
     "type": "TOGGLE",
     "rarity": 0,
@@ -63,7 +63,7 @@
       "en_US": "Joern"
     },
     "description": {
-      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+      "en_US": "He just wants to come along for the ride."
     },
     "type": "TOGGLE",
     "rarity": 0,
@@ -82,7 +82,7 @@
       "en_US": "Lea"
     },
     "description": {
-      "en_US": "Hi!"
+      "en_US": "Hi! Lea!"
     },
     "type": "TOGGLE",
     "rarity": 0,
@@ -101,7 +101,7 @@
       "en_US": "Shizuka"
     },
     "description": {
-      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+      "en_US": "The ultimate tsundere waifu, now in pet form!"
     },
     "type": "TOGGLE",
     "rarity": 0,
@@ -120,7 +120,7 @@
       "en_US": "Lukas"
     },
     "description": {
-      "en_US": "Hi!"
+      "en_US": "Mein Gott! He's a pet now!"
     },
     "type": "TOGGLE",
     "rarity": 0,
@@ -139,7 +139,7 @@
       "en_US": "Luke"
     },
     "description": {
-      "en_US": "The pet of a true spheromancer... \\c[3]the pet of justice\\c[0]!"
+      "en_US": "German, but now with additional existential dread!"
     },
     "type": "TOGGLE",
     "rarity": 0,
