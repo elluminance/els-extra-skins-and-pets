@@ -1,6 +1,6 @@
 [
   {
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-emilie",
     "name": {
       "en_US": "Emilie"
@@ -19,7 +19,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-ctron",
     "name": {
       "en_US": "C'tron"
@@ -38,7 +38,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-apollo",
     "name": {
       "en_US": "Apollo"
@@ -57,7 +57,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-joern",
     "name": {
       "en_US": "Joern"
@@ -76,7 +76,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-lea",
     "name": {
       "en_US": "Lea"
@@ -95,7 +95,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-shizuka",
     "name": {
       "en_US": "Shizuka"
@@ -114,7 +114,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-lukas",
     "name": {
       "en_US": "Lukas"
@@ -133,7 +133,7 @@
       "name": null
     }
   },{
-    "order": 14,
+    "order": 20,
     "customItem": "el-pet-luke",
     "name": {
       "en_US": "Luke"
