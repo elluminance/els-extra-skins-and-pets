@@ -14,29 +14,8 @@
     "type": "ENTER",
     "index": ["toggle-sets", "pet", "items"]
 },{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-emilie"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-ctron"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-apollo"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-joern"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-lea"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-shizuka"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-lukas"
-},{
-    "type": "ADD_ARRAY_ELEMENT",
-    "content": "el-pet-luke"
+    "type": "IMPORT",
+    "src": "mod:/patches/pet-item-list.json"
 },{
     "type": "EXIT",
     "count": 3
