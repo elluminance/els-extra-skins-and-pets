@@ -1,7 +1,7 @@
 {
     "el-rainbow-aura": {
         "item": "el-effect-rainbow",
-        "autoAdd": true,
+        "autoAdd": false,
         "type": "Aura",
         "settings": {
             "fx": "skin-aura.rainbow"
