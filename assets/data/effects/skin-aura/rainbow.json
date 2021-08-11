@@ -1,0 +1,486 @@
+{
+    "DOCTYPE": "EFFECT",
+    "ANIMS": {
+        "namedSheets": null,
+        "SUB": [
+            {
+                "name": "HOLIDAY_STAR",
+                "sheet": {
+                    "src": "media\/entity\/effects\/particles1.png",
+                    "offX": 120,
+                    "offY": 72,
+                    "width": 8,
+                    "height": 8
+                },
+                "guiSprites": false,
+                "renderMode": "lighter",
+                "time": 0.5,
+                "repeat": true,
+                "frames": [
+                    0
+                ]
+            },
+            {
+                "name": "HOLIDAY_STAR2",
+                "sheet": {
+                    "src": "media\/entity\/effects\/particles1.png",
+                    "offX": 112,
+                    "offY": 72,
+                    "width": 8,
+                    "height": 8
+                },
+                "guiSprites": false,
+                "renderMode": "lighter",
+                "time": 0.5,
+                "repeat": true,
+                "frames": [
+                    0
+                ]
+            }
+        ]
+    },
+    "EFFECTS": {
+        "aura": [
+            {
+                "type": "LOOP_START"
+            },
+            {
+                "color": "#F00",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#F80",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#FF0",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#8F0",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#0F0",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#0F8",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#0FF",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#08F",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            
+            {
+                "color": "#00F",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#80F",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#F0F",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+            {
+                "color": "#F08",
+                "noLighter": false,
+                "pAlpha": {
+                    "init": 0,
+                    "start": {
+                        "value": 0.5,
+                        "time": 0.05,
+                        "spline": ""
+                    },
+                    "end": {
+                        "value": 0,
+                        "time": 0.5,
+                        "spline": ""
+                    }
+                },
+                "pScale": {
+                    "init": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "start": {
+                        "value": {
+                            "x": 1.3,
+                            "y": 1.3
+                        },
+                        "spline": ""
+                    }
+                },
+                "particleDuration": 0.6,
+                "type": "COPY_SPRITE"
+            },
+            {
+                "time": 0.066,
+                "type": "WAIT"
+            },
+
+            {
+                "type": "LOOP_END"
+            }
+        ]
+    }
+}

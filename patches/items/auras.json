@@ -1,0 +1,22 @@
+[
+  {
+    "order": 20,
+    "customItem": "el-effect-rainbow",
+    "name": {
+      "en_US": "Rainbow"
+    },
+    "description": {
+      "en_US": "Taste the rainbow."
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  }
+]

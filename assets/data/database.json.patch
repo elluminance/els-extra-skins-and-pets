@@ -7,7 +7,10 @@
     "index": "playerSkins"
 },{
     "type": "IMPORT",
-    "src": "mod:/patches/pets.json"
+    "src": "mod:/patches/playerSkins/pets.json"
+},{
+    "type": "IMPORT",
+    "src": "mod:/patches/playerSkins/auras.json"
 },{
     "type": "EXIT"
 },{
@@ -15,7 +18,16 @@
     "index": ["toggle-sets", "pet", "items"]
 },{
     "type": "IMPORT",
-    "src": "mod:/patches/pet-item-list.json"
+    "src": "mod:/patches/item-lists/pets.json"
+},{
+    "type": "EXIT",
+    "count": 2
+},{
+    "type": "ENTER",
+    "index": ["aura", "items"]
+},{
+    "type": "IMPORT",
+    "src": "mod:/patches/item-lists/auras.json"
 },{
     "type": "EXIT",
     "count": 3

@@ -1,9 +1,9 @@
 {
-    "id": "party-pets",
+    "id": "els-pets-skins-and-more",
 	"version": "0.0.1",
 
-	"title": "Party Pets",
-	"description": "(Probably not what you think it is)",
+	"title": "EL's Pets & Skins",
+	"description": "Includes many new pets, auras, and skins!",
     
 	"dependencies": {
         "item-api": ">=0.4.0"

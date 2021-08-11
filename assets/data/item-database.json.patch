@@ -3,7 +3,10 @@
     "index": "items"
 },{
     "type": "IMPORT",
-    "src": "mod:patches/pet-items.json"
+    "src": "mod:patches/items/pets.json"
+},{
+    "type": "IMPORT",
+    "src": "mod:patches/items/auras.json"
 },{
     "type": "EXIT"
 }]
