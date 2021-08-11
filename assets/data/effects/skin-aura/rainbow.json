@@ -2,42 +2,7 @@
     "DOCTYPE": "EFFECT",
     "ANIMS": {
         "namedSheets": null,
-        "SUB": [
-            {
-                "name": "HOLIDAY_STAR",
-                "sheet": {
-                    "src": "media\/entity\/effects\/particles1.png",
-                    "offX": 120,
-                    "offY": 72,
-                    "width": 8,
-                    "height": 8
-                },
-                "guiSprites": false,
-                "renderMode": "lighter",
-                "time": 0.5,
-                "repeat": true,
-                "frames": [
-                    0
-                ]
-            },
-            {
-                "name": "HOLIDAY_STAR2",
-                "sheet": {
-                    "src": "media\/entity\/effects\/particles1.png",
-                    "offX": 112,
-                    "offY": 72,
-                    "width": 8,
-                    "height": 8
-                },
-                "guiSprites": false,
-                "renderMode": "lighter",
-                "time": 0.5,
-                "repeat": true,
-                "frames": [
-                    0
-                ]
-            }
-        ]
+        "SUB": []
     },
     "EFFECTS": {
         "aura": [

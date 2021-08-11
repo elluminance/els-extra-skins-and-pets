@@ -1,6 +1,6 @@
 [
   {
-    "order": 20,
+    "order": 30,
     "customItem": "el-pet-emilie",
     "name": {
       "en_US": "Emilie"
@@ -19,7 +19,7 @@
       "name": null
     }
   },{
-    "order": 20,
+    "order": 30,
     "customItem": "el-pet-ctron",
     "name": {
       "en_US": "C'tron"
@@ -38,7 +38,7 @@
       "name": null
     }
   },{
-    "order": 20,
+    "order": 30,
     "customItem": "el-pet-apollo",
     "name": {
       "en_US": "Apollo"
@@ -57,7 +57,7 @@
       "name": null
     }
   },{
-    "order": 20,
+    "order": 30,
     "customItem": "el-pet-joern",
     "name": {
       "en_US": "Joern"
