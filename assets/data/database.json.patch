@@ -12,6 +12,17 @@
     "type": "IMPORT",
     "src": "mod:/patches/playerSkins/auras.json"
 },{
+    "type": "IMPORT",
+    "src": "mod:/patches/playerSkins/skins.json"
+},{
+    "type": "EXIT"
+},{
+    "type": "ENTER",
+    "index": "shops"
+},{
+    "type": "IMPORT",
+    "src": "mod:/patches/shop.json"
+},{
     "type": "EXIT"
 },{
     "type": "ENTER",
@@ -19,6 +30,15 @@
 },{
     "type": "IMPORT",
     "src": "mod:/patches/item-lists/pets.json"
+},{
+    "type": "EXIT",
+    "count": 2
+},{
+    "type": "ENTER",
+    "index": ["skins", "items"]
+},{
+    "type": "IMPORT",
+    "src": "mod:/patches/item-lists/skins.json"
 },{
     "type": "EXIT",
     "count": 2

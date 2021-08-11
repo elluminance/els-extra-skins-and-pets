@@ -1,0 +1,42 @@
+[
+    {
+        "order": 14,
+        "customItem": "el-edgy-lea-skin",
+        "name": {
+            "en_US": "Ow The Edge"
+        },
+        "description": {
+            "en_US": "Become edgier by dyeing your hair black. Become the ultimate mute goth gf waifu."
+        },
+        "type": "TOGGLE",
+        "rarity": 0,
+        "cost": 0,
+        "level": 1,
+        "icon": "item-toggle",
+        "noTrack": true,
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    },
+    {
+        "order": 14,
+        "customItem": "el-ael-skin",
+        "name": {
+            "en_US": "aeL"
+        },
+        "description": {
+            "en_US": "!evah syawla uoy woh ekil yltcaxe kool uoy sekaM"
+        },
+        "type": "TOGGLE",
+        "rarity": 0,
+        "cost": 0,
+        "level": 1,
+        "icon": "item-toggle",
+        "noTrack": true,
+        "effect": {
+            "sheet": "",
+            "name": null
+        }
+    }
+]

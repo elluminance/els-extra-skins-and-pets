@@ -1,0 +1,85 @@
+{
+    "el-skins-shop": {
+        "name": {
+            "en_US": "Curious Skins"
+        },
+        "shopType": "BUY_AND_SELL",
+        "maxOwn": 1,
+        "sellScale": 1,
+        "pages": [
+            {
+                "title": {
+                    "en_US": "Skins"
+                },
+                "content": [
+                    {
+                        "item": "el-edgy-lea-skin",
+                        "price": 33333
+                    },
+                    {
+                        "item": "el-ael-skin",
+                        "price": 33333
+                    }
+                ]
+            },
+            {
+                "title": {
+                    "en_US": "Pets"
+                },
+                "content": [
+                    {
+                        "item": "el-pet-emilie",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-ctron",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-apollo",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-joern",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-lea",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-shizuka",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-lukas",
+                        "price": 25000,
+                        "condition": "false"
+                    },
+                    {
+                        "item": "el-pet-luke",
+                        "price": 25000,
+                        "condition": "false && plot.line >= 40000"
+                    }
+                ]
+            },
+            {
+                "title": {
+                    "en_US": "Auras"
+                },
+                "content": [
+                    {
+                        "item": "el-effect-rainbow",
+                        "price": 25000
+                    }
+                ]
+            }
+        ]
+    }
+}
