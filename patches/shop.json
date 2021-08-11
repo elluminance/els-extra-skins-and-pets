@@ -76,7 +76,11 @@
                 "content": [
                     {
                         "item": "el-effect-rainbow",
-                        "price": 77777
+                        "price": 50000
+                    },
+                    {
+                        "item": "el-effect-vaporwave",
+                        "price": 50000
                     }
                 ]
             }

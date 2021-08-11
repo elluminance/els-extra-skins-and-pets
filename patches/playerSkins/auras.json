@@ -6,5 +6,13 @@
         "settings": {
             "fx": "skin-aura.rainbow"
         }
+    },
+    "el-vaporwave-aura": {
+        "item": "el-effect-vaporwave",
+        "autoAdd": false,
+        "type": "Aura",
+        "settings": {
+            "fx": "skin-aura.vaporwave"
+        }
     }
 }
