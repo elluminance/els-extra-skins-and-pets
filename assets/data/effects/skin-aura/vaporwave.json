@@ -12,11 +12,11 @@
             {
                 "color": "#0FF",
                 "fadeColor": "#F0F",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.8,
                         "time": 0.05,
                         "spline": ""
                     },

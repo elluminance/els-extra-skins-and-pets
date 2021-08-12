@@ -11,7 +11,7 @@
             },
             {
                 "mode": "sp",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
@@ -22,7 +22,7 @@
                     "end": {
                         "value": 0,
                         "time": 0.5,
-                        "spline": "EASE_IN"
+                        "spline": ""
                     }
                 },
                 "pScale": {

@@ -11,7 +11,7 @@
             },
             {
                 "mode": "hp",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {

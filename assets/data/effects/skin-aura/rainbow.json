@@ -11,11 +11,11 @@
             },
             {
                 "color": "#F00",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -47,11 +47,11 @@
             },
             {
                 "color": "#F80",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -83,11 +83,11 @@
             },
             {
                 "color": "#FF0",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -119,11 +119,11 @@
             },
             {
                 "color": "#8F0",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -155,11 +155,11 @@
             },
             {
                 "color": "#0F0",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -191,11 +191,11 @@
             },
             {
                 "color": "#0F8",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -227,11 +227,11 @@
             },
             {
                 "color": "#0FF",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -263,11 +263,11 @@
             },
             {
                 "color": "#08F",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -300,11 +300,11 @@
             
             {
                 "color": "#00F",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -336,11 +336,11 @@
             },
             {
                 "color": "#80F",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -372,11 +372,11 @@
             },
             {
                 "color": "#F0F",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
@@ -408,11 +408,11 @@
             },
             {
                 "color": "#F08",
-                "noLighter": false,
+                "noLighter": true,
                 "pAlpha": {
                     "init": 0,
                     "start": {
-                        "value": 0.5,
+                        "value": 0.7,
                         "time": 0.05,
                         "spline": ""
                     },
