@@ -14,5 +14,13 @@
         "settings": {
             "fx": "skin-aura.vaporwave"
         }
+    },
+    "el-hp-aura": {
+        "item": "el-effect-hp",
+        "autoAdd": false,
+        "type": "Aura",
+        "settings": {
+            "fx": "skin-aura.hp-scale"
+        }
     }
 }
