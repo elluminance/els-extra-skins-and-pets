@@ -22,5 +22,13 @@
         "settings": {
             "fx": "skin-aura.hp-scale"
         }
+    },
+    "el-sp-aura": {
+        "item": "el-effect-sp",
+        "autoAdd": false,
+        "type": "Aura",
+        "settings": {
+            "fx": "skin-aura.sp-scale"
+        }
     }
 }

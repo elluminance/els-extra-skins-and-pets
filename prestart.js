@@ -64,6 +64,7 @@ ig.EFFECT_ENTRY.COPY_SPRITE_SPECIAL_COLOR_EL = ig.EffectStepBase.extend({
                 color = getSpecialColorHSV(120, 0, sc.model.player.params.getHpFactor())
                 break;
             case "sp":
+                color = getSpecialColorHSV(210, 285, sc.model.player.params.getRelativeSp())
                 break;
         }
         entity.spawnParticle(ig.ENTITY.CopyParticle, null, {
