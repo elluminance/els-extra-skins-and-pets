@@ -4,6 +4,6 @@
 	"description": "Includes many new pets, auras, and skins!",
 	"prestart": "prestart.js",
 	"ccmodDependencies": {
-		"item-api": ">=0.4.0"
+		"item-api": ">=0.4.1"
 	}
 }

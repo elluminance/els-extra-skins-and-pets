@@ -7,6 +7,6 @@
     
 	"prestart": "prestart.js",
 	"dependencies": {
-        "item-api": ">=0.4.0"
+        "item-api": ">=0.4.1"
 	}
 }
