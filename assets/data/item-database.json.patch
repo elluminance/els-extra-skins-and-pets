@@ -11,5 +11,8 @@
     "type": "IMPORT",
     "src": "mod:patches/items/skins.json"
 },{
+    "type": "IMPORT",
+    "src": "mod:patches/items/step-effects.json"
+},{
     "type": "EXIT"
 }]

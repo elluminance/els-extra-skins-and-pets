@@ -41,6 +41,66 @@
   },
   {
     "order": 20,
+    "customItem": "el-effect-shadow",
+    "name": {
+      "en_US": "Shadow Walker Aura"
+    },
+    "description": {
+      "en_US": "Leave behind a trail of complete darkness. Perfect for running through the night."
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },
+  {
+    "order": 20,
+    "customItem": "el-effect-void",
+    "name": {
+      "en_US": "Void Aura"
+    },
+    "description": {
+      "en_US": "Stare into the void. It'll say 'Hi!'"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },
+  {
+    "order": 20,
+    "customItem": "el-effect-hax",
+    "name": {
+      "en_US": "Haxxor Aura"
+    },
+    "description": {
+      "en_US": "Hack all the things. \\c[1]All of them.\\c[0]"
+    },
+    "type": "TOGGLE",
+    "rarity": 0,
+    "cost": 0,
+    "level": 1,
+    "icon": "item-toggle",
+    "noTrack": true,
+    "effect": {
+      "sheet": "",
+      "name": null
+    }
+  },
+  {
+    "order": 20,
     "customItem": "el-effect-hp",
     "name": {
       "en_US": "Health Aura"

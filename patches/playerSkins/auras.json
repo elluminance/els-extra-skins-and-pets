@@ -30,5 +30,21 @@
         "settings": {
             "fx": "skin-aura.sp-scale"
         }
+    },
+    "el-hax-aura": {
+        "item": "el-effect-hax",
+        "autoAdd": false,
+        "type": "Aura",
+        "settings": {
+            "fx": "skin-aura.hacker"
+        }
+    },
+    "el-shadow-aura": {
+        "item": "el-effect-shadow",
+        "autoAdd": false,
+        "type": "Aura",
+        "settings": {
+            "fx": "skin-aura.shadow-step"
+        }
     }
 }

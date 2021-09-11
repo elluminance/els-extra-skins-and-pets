@@ -1,0 +1,11 @@
+{
+    "el-plant-step": {
+        "id": "el-plant-step",
+        "item": "el-plant-step",
+        "autoAdd": false,
+        "type": "StepEffect",
+        "settings": {
+            "fx": "skin-step.leaf-step"
+        }
+    }
+}

@@ -15,6 +15,9 @@
     "type": "IMPORT",
     "src": "mod:/patches/playerSkins/skins.json"
 },{
+    "type": "IMPORT",
+    "src": "mod:/patches/playerSkins/step-effects.json"
+},{
     "type": "EXIT"
 },{
     "type": "ENTER",
@@ -39,6 +42,15 @@
 },{
     "type": "IMPORT",
     "src": "mod:/patches/item-lists/skins.json"
+},{
+    "type": "EXIT",
+    "count": 2
+},{
+    "type": "ENTER",
+    "index": ["stepEffects", "items"]
+},{
+    "type": "IMPORT",
+    "src": "mod:/patches/item-lists/step-effects.json"
 },{
     "type": "EXIT",
     "count": 2
